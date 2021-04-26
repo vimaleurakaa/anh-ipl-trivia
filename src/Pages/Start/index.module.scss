@@ -1,0 +1,50 @@
+.cricket_title {
+	margin: auto;
+	width: 260px;
+	padding-top: 6rem;
+
+	& img {
+		width: 100%;
+	}
+}
+
+.play_button {
+	margin: 2rem auto 0 auto;
+	width: 210px;
+
+	& img {
+		width: 100%;
+		transform: scale(1);
+		transition: all 0.15s ease-in-out;
+	}
+
+	&:hover img {
+		transform: scale(1.1);
+	}
+}
+
+.powered_by {
+	text-align: center;
+	margin-top: 2rem;
+	color: var(--anh-white);
+}
+
+.bottom_button {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	left: 0;
+	right: 0;
+	padding: 1rem;
+
+	& .left_button {
+		width: 64px;
+	}
+
+	& .right_button {
+		width: 64px;
+	}
+}

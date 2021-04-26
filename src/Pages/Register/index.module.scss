@@ -1,0 +1,76 @@
+.score_wrapper {
+	font-family: 'fugaz', 'Helvetica Neue', sans-serif;
+	text-transform: uppercase;
+	background-color: var(--anh-secondary-blue);
+	padding: 1rem;
+	text-align: center;
+	color: var(--anh-white);
+	padding-top: 2rem;
+
+	& p {
+		font-size: 2rem;
+		margin: 0;
+	}
+}
+.register_form {
+	background-color: var(--anh-primary-red);
+	padding: 1.2rem;
+	max-width: 540px;
+	margin: auto;
+	margin-top: 2rem;
+	border-radius: 0.4rem;
+	color: var(--anh-white);
+
+	& .header {
+		text-align: center;
+		& p {
+			font-size: 1.2rem;
+			font-weight: 500;
+			margin: 0;
+			padding: 1rem;
+		}
+	}
+
+	form {
+		& .form_input {
+			margin-bottom: 1rem;
+		}
+
+		& .terms {
+			text-align: center;
+			& p {
+				font-size: 0.8rem;
+				margin-top: 1.6rem;
+			}
+		}
+
+		& .submit {
+			width: 100%;
+			text-align: center;
+			& button {
+				border: none;
+				background-color: transparent;
+				background-image: url(../../assets/submit.svg);
+				background-repeat: no-repeat;
+				padding: 40px 80px 0 80px;
+			}
+		}
+	}
+}
+
+.bottom_button {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	margin-top: 2rem;
+	padding: 1rem;
+
+	& .left_button {
+		width: 64px;
+	}
+
+	& .right_button {
+		width: 64px;
+	}
+}

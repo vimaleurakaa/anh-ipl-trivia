@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+@font-face {
+	font-family: fugaz;
+	src: url(../assets/fugaz.ttf);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+//theme colors
+:root {
+	--anh-primary-red: #bf1a1a;
+	--anh-white: #fff;
+	--anh-charcoal: #333;
+	--anh-primary-blue: #1074c5;
+	--anh-primary-orange: #feb149;
+	--anh-light-orange: #fed53c;
+	--anh-mud-black: #454861;
+	--anh-secondary-blue: #0265bf;
+}

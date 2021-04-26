@@ -1,0 +1,88 @@
+{
+	"data": [
+		{
+			"question": "Which team has never made the IPL final?",
+			"choices": [
+				"Punjab Kings",
+				"Royal Challengers Bangalore",
+				"Delhi Capitals",
+				"Mumbai Indians"
+			],
+			"answer": "Delhi Capitals",
+			"info": "Until last season only Delhi Capitals had never managed to reach an IPL final."
+		},
+		{
+			"question": "Which Indian player has scored the fastest hundred in the IPL?",
+			"choices": ["Yusuf Pathan", "Virat Kohli", "Mayank Agarwal", "Dhoni"],
+			"answer": "Yusuf Pathan",
+			"info": "In 2010, Yusuf Pathan scored a 37-ball 100 for Rajasthan Royals against Mumbai Indians."
+		},
+		{
+			"question": "Which two teams made their IPL debuts in 2011?",
+			"choices": [
+				"Kochi Tuskers Kerala",
+				"Rising Pune Supergiant",
+				"Gujarat Lions",
+				"Delhi Capitals"
+			],
+			"answer": "Kochi Tuskers Kerala",
+			"info": "With the introduction of two new teams, a 10-team format was put in place consisting of two groups and 74 matches being played. The knockout stage was changed into a playoff format."
+		},
+		{
+			"question": "Which player holds the record for the fastest fifty in IPL?",
+			"choices": [
+				"Rohit Sharma",
+				"K. L. Rahul",
+				"Yuvraj Singh",
+				"Nicholas Pooran"
+			],
+			"answer": "K. L. Rahul",
+			"info": "KL Rahul scored a 14-ball fifty for Kings XI Punjab (now Punjab Kings) against Delhi Daredevils (now Delhi Capitals) in 2018."
+		},
+		{
+			"question": "Who was the captain of the Mumbai Indians in IPL 2012?",
+			"choices": [
+				"Rohit Sharma",
+				"Sachin Tendulkar",
+				"Imran Tahir",
+				"Harbhajan Singh"
+			],
+			"answer": "Harbhajan Singh",
+			"info": "Harbhajan took over from Sachin Tendulkar, who quit captaincy before the start of the season."
+		},
+		{
+			"question": "Which among these players has the joint-most ducks in IPL history alongside Harbhajan Singh?",
+			"choices": [
+				"Rohit Sharma",
+				"Parthiv Patel",
+				"Ravindra Jadeja",
+				"Imran Tahir"
+			],
+			"answer": "Parthiv Patel",
+			"info": "Parthiv and Harbhajan have been dismissed for nought on 13 occasions in the tournament."
+		},
+		{
+			"question": "Who has the highest all-time batting average (having featured in a minimum of 10 matches)?",
+			"choices": ["Chris Gayle", "MS Dhoni", "KL Rahul", "Lasith Malinga"],
+			"answer": "KL Rahul",
+			"info": "KL Rahul, ahead of IPL 2021, had a batting average of 44.86 in 81 matches."
+		},
+		{
+			"question": "Which pacer has bowled the highest number of dot balls in the IPL?",
+			"choices": ["Bucharest", "Lasith Malinga", "Umesh Yadav", "MS Dhoni"],
+			"answer": "Bhuvneshwar Kumar",
+			"info": "Bhuvneshwar has bowled a total of 1,164 dots."
+		},
+		{
+			"question": "Which player has won the most number of IPL orange caps, which are awarded to the season’s highest run-scorer?",
+			"choices": [
+				"Chris Gayle",
+				"Sachin Tendulkar",
+				"David Warner",
+				"Virat Kohli"
+			],
+			"answer": "David Warner",
+			"info": "Warner has won the orange cap thrice (2015, 2017, 2019)."
+		}
+	]
+}

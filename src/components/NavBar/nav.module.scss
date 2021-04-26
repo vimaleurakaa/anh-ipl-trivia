@@ -1,0 +1,26 @@
+.exit_btn {
+	font-weight: 500;
+	color: var(--anh-primary-red);
+	margin-left: 1rem;
+}
+
+.nav_background {
+	background: linear-gradient(
+		to bottom,
+		var(--anh-primary-orange),
+		var(--anh-light-orange)
+	);
+	border-bottom-left-radius: 1.2rem;
+	border-bottom-right-radius: 1.2rem;
+}
+
+.svg svg path:nth-child(odd) {
+	stroke: #ececec;
+	fill: var(--anh-white);
+}
+
+.nav_logo {
+	& img {
+		width: 40px;
+	}
+}
